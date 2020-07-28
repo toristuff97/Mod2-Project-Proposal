@@ -32,5 +32,14 @@ Saturday: Finish components and continue styling and testing.
 Sunday: Same as Saturday, most likely.
 
 ## Wireframe
+Landing Page
+![](./assets/landing.png)
 
+Home 
+![](./assets/home.png)
 
+New Plant
+![](./assets/newplant.png)
+
+Explore
+![](./assets/explore.png)
