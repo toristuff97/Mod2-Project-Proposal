@@ -43,3 +43,18 @@ New Plant
 
 Explore
 ![](./assets/explore.png)
+
+My Plants
+![](./assets/myplants.png)
+
+My Plots
+![](./assets/myplots.png)
+
+Calendar
+![](./assets/calendar.png)
+
+Help
+![](./assets/help.png)
+
+Login
+![](./assets/login.png)
