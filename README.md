@@ -15,6 +15,9 @@ https://docs.trefle.io/docs/guides/searching
 Plants Fields
 https://docs.trefle.io/docs/advanced/plants-fields
 
+In-Depth Reference
+https://docs.trefle.io/reference
+
 ## Expected roadblocks
 I can see the login/registration for the site being a little difficult, I don't know Firebase (yet) so that's definitely a must. Also setting up the search function may be tough, worst case scenario I would just consolidate adding a new plant into the Explore function so that the search bar wouldn't even be an issue. Also time, but that is always the case.
 
